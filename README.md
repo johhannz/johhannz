@@ -1,3 +1,8 @@
+<!---especial repositorio sobre o github --->
+
+<!---comentario, serve para esconder ou ocultar dados --->
+![flamengo](https://media2.giphy.com/media/50EDybcf4H0q0HO9Wz/200w.gif)
+
 # Sobre mim **johan**
 - ##  **Olá eu sou @johhannz**
 - :+1:O meu [e-mail](johan.oliveira@escola.pr.gov.br)
